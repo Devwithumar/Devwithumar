@@ -1,23 +1,71 @@
-## Hey there 👋
-## i'm Ahmad Umar. A passionate software engineer from nigeria.
-🛠 I’m currently building custom booking systems, AI-powered apps, and clean UI projects.
-💡 I love solving real problems with smart code and meaningful UX.
-💼 I’m also a reliable Virtual Assistant, skilled in task management, research, and digital productivity.
-🚀 Intern @ NEPC | Focused on growth, GitHub, and leveling up in tech.
-🧠 Learning daily | Coding smart | Always building.
+# Ahmad Umar
 
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Wix Velo](https://img.shields.io/badge/-Wix%20Velo-000?style=flat&logo=wix&logoColor=white)
-![LLAMA](https://img.shields.io/badge/-LLAMA-000000?style=flat&logo=llama&logoColor=white)  <!-- unofficial, but cool! -->
+**Backend AI Engineer · Data Analytics & Machine Learning**
+
+I design and build production-grade backend systems with a focus on AI, data pipelines, Automation workflows and applied machine learning. My work prioritizes correctness, scalability, and clean architecture over hype.
+
+---
+
+## What I Do
+
+* Build **AI-powered backend services** (APIs, RAG pipelines, N8N, model-serving layers)
+* Design **data analytics workflows** for insight, reporting, and decision support
+* Develop and deploy **machine learning systems** with real-world constraints
+* Write maintainable, well-documented code meant for long-term ownership
+
+---
+
+## Core Stack
+
+* **Languages:** Python, JavaScript, Express.js, PHP
+* **Backend:** FastAPI, REST APIs, async services
+* **Data & ML:** Pandas, NumPy, scikit-learn, LLM tooling
+* **Frontend (when needed):** React
+* **Dev & Ops:** Git, Docker, CI/CD
+
+---
+
+## Experience Highlights
+
+* Backend and AI engineering on real-world applications
+* Production-focused approach to model integration (LLMs, NLP, analytics)
+* Strong emphasis on system design, documentation, and reliability
+
+---
+
+## Current Focus
+
+* Backend architecture for AI systems
+* Machine learning in production environments
+* LLM-based tools (RAG, N8N automations, system architure, prompt engineering, evaluation)
+* Shipping maintainable, well-tested software
+* Applied machine learning system design
+* Model training, evaluation, and iteration
+* Feature engineering and data pipelines
+
+ML inference optimization and deployment
+
+---
+
+## Principles
+
+* Clarity over cleverness
+* Systems > scripts
+* Production first
+
+---
+
+📫 **Contact / Work**
+
+* Open to engineering roles and collaborations
+* 
 
 ## 🌱 Currently Learning
 - Advanced React & backend integration  
 - Building AI-powered tools with Large Language Models (LLMs) like LLAMA  
 - Natural Language Processing (NLP) and prompt engineering  
 - How to ship and document production-ready apps
+
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/ahmad-umar-zzf7)  
