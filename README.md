@@ -62,7 +62,7 @@ ML inference optimization and deployment
 
 ## 🌱 Currently Learning
 - Advanced React & backend integration  
-- Building AI-powered tools with Large Language Models (LLMs) like LLAMA  
+- Building AI-powered tools with open ML datasets e.g (Kaggle) and language models like LLAMA 
 - Natural Language Processing (NLP) and prompt engineering  
 - How to ship and document production-ready apps
 
